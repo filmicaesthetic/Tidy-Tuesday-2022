@@ -1,5 +1,6 @@
 #####
-#Tidy Tuesday Week 2 - Bee Colonies
+# Tidy Tuesday Week 2 - Bee Colonies
+# Hexmap code source: https://www.r-graph-gallery.com/328-hexbin-map-of-the-usa.html
 #####
 
 library(tidyverse)
