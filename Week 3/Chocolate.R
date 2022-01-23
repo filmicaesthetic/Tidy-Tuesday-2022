@@ -73,17 +73,17 @@ characteristics_single %>%
   coord_curvedpolar() +
   theme(legend.position = "none",
         panel.grid.major = element_line(color = "#cfbfa5"),
-        axis.ticks = element_blank(),
+        axis.ticks.x = element_blank(),
         plot.caption = element_text(margin = margin(t=6, b=10, unit = "pt"),size = 8, hjust = 0.5),
         plot.title.position = "plot",
         plot.title = element_text(margin = margin(t=12, b=5, unit = "pt"), color = "#362a21", hjust = 0.5, face = "bold", family = "Octin Vintage Free", size = 30),
         plot.subtitle = element_text(hjust = 0.5, size = 14),
         axis.text.x = element_text(size = 12, hjust = 0.5, color = "#362a21", vjust = 0, margin = margin(l = 10, r = -50, unit = "pt")),
-        axis.text.y = element_blank(),
+        axis.text.y = element_text(size = 10),
         plot.background = element_rect(fill = "#ede2d1", color = "#8c7b5f"),
         panel.background = element_rect(fill = "#ede2d1"),
         axis.title = element_blank(),
         text = element_text(family = "Touka Maru Gothic-L", color = "#362a21")
   )
 
-ggsave("chocolate_sv.png", width = 20, height = 25, units = "cm")
+ggsave("chocolate_svb.png", width = 20, height = 25, units = "cm")
