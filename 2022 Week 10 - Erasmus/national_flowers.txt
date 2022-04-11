@@ -1,0 +1,56 @@
+name, national_flower
+Afghanistan, Tulip
+Argentina, Ceibo
+Australia, Golden Wattle
+Austria, Edelweiss
+Bangladesh, White Water Lily
+Barbados, Pride of Barbados
+Belgium, Red Poppy
+Bermuda, Sisyrinchium bermudiana
+Bhutan, Blue Poppy
+Bolivia, Cantuta
+Brazil, Cattleya labiata
+Bulgaria, Rose
+Chile, Copihue
+Colombia, Cattleya Orchid
+Cuba, Mariposa
+Cyprus, Cyclamen
+Denmark, Marguerite Daisy
+Egypt, Lotus
+England, Rose, Tudor Rose
+Finland, Lily of the Valley
+France, Iris
+Germany, Cornflower
+Hungary, Tulip
+India, Lotus
+Indonesia, Puspa Bangsa
+Iraq, Red Rose
+Ireland, Shamrock
+Israel, Cyclamen
+Japan, Cherry Blossom
+Jordan, Black Iris
+Malaysia, Hibiscus
+Mexico, Dahlia
+Myanmar, Padauk
+Netherlands, Tulip
+New Zealand, Kowhai
+Norway, Purple Heather (Callunna Vulgaris)
+Pakistan, Jasmine
+Philippines, Jasminum Sambac
+Poland, Corn Poppy
+Portugal, Lavender
+Puerto Rico, Flor de Maga
+Romania, Dog rose
+Russia, Chamomile
+Scotland, Thistle
+Singapore, Vanda Miss Joaquim
+South Africa, King Protea
+South Korea, Hibiscus
+Spain, Carnation
+Sri Lanka, Blue Lily
+Switzerland, Edelweiss
+Taiwan, Plum Blossom
+Thailand, Cassia Fistula Linn
+United States of America, Rose
+Vietnam, Lotus
+Zimbabwe, Flame Lily
