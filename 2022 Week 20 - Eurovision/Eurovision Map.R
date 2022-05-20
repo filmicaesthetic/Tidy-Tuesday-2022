@@ -24,12 +24,14 @@ votes <- tuesdata$`eurovision-votes`
 vote_tidy <- votes %>%
   mutate(to_country = gsub("The Netherlands", "Netherlands", to_country),
          from_country = gsub("The Netherlands", "Netherlands", from_country)) %>%
-  filter(semi_final == "f", is.na(duplicate) == TRUE, !(to_country %in% c("Monaco", "San Marino", "Montenegro")), !(from_country %in% c("Monaco", "San Marino", "Montenegro"))) %>%
-  group_by(to_country, from_country) %>%
-  summarise(n = n(),
+  filter(semi_final == "f", jury_or_televoting == "J", is.na(duplicate) == TRUE, !(to_country %in% c()), !(from_country %in% c())) %>%
+  mutate(both_country = paste0(pmin(to_country, from_country), pmax(to_country, from_country))) %>%
+  group_by(both_country) %>%
+  mutate(n = n(),
             points = mean(points)) %>%
   mutate(points = ifelse(n >= 10, points, 0)) %>%
-  dplyr::select(-n) 
+  dplyr::select(to_country, from_country, both_country, points) %>%
+  distinct()
 
 vote_tidy <- vote_tidy %>%
   filter(from_country %in% vote_tidy$to_country)
@@ -54,6 +56,7 @@ vote_filt <- vote_tidy %>%
 
 # pivot data into matrix format
 vote_mat <- vote_filt %>%
+  select(-both_country) %>%
   pivot_wider(id_cols = to_country, names_from = from_country, values_from = points) %>%
   column_to_rownames(var="to_country")
 
@@ -133,7 +136,7 @@ g <- ggplot(plot_df, aes(x = x, y = y, xend = xend, yend = yend)) +
   geom_text(data = top_table, aes(x = 43, y = 71 - (rank / 1), xend = NULL, yend = NULL, label = toupper(from_country)), hjust = 0, color = "white", size = 2.5) + # right country
   scale_color_viridis_b() +
   guides(size = "none", alpha = "none") +
-  labs(color = "", caption = "data: Eurovision / Data.World", x = "average points awarded") +
+  labs(color = "", caption = "Country pairings with fewer than 10 points exchanges are not shown.\ndata: Eurovision / Data.World", x = "average points awarded") +
   # ggtitle("THE POLITICS OF EUROVISION") +
   theme_blank() +
   coord_cartesian(xlim = c(-20, 50), ylim = c(30,70)) +
@@ -179,5 +182,5 @@ title <- grid.arrange(t_1, t_2, nrow = 1, widths = c(0.35, 0.65))
 # join with main plot
 euro_plot <- arrangeGrob(title, g, nrow = 2, heights = c(0.15, 0.85))
 
-ggsave("2022 Week 20 - Eurovision/outputs/eurovision.png", euro_plot, width = 10, height = 13)
+ggsave("2022 Week 20 - Eurovision/outputs/eurovision_b.png", euro_plot, width = 10, height = 13)
 
