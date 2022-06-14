@@ -8,8 +8,8 @@ library(ggstream)
 library(showtext)
 
 # import two datasets using 'gay community' as key with the highest point
-lgbt_1 <- read.csv2("C:/Users/Daniel/Downloads/multiTimeline (3).csv", sep=",", skip = 2, comment.char="#", colClasses = "character")
-lgbt_2 <- read.csv2("C:/Users/Daniel/Downloads/multiTimeline (4).csv", sep=",", skip = 2, comment.char="#", colClasses = "character")
+lgbt_1 <- read.csv2("data/lgbtq_trends_1.csv", sep=",", skip = 2, comment.char="#", colClasses = "character")
+lgbt_2 <- read.csv2("data/lgbtq_trends_2.csv", sep=",", skip = 2, comment.char="#", colClasses = "character")
 
 # join two datasets
 lgbt <- lgbt_1 %>%
