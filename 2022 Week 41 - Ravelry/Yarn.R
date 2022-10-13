@@ -76,7 +76,7 @@ yarn_plot |>
   theme_minimal() +
   guides(size = "none") +
   theme(plot.subtitle = element_text(margin = margin(t = 10, b = 10, unit = "pt")),
-        legend.position = "none",
+        legend.position = "top",
         text = element_text(family = "Roboto", color = "#1d1d1d"),
         plot.background = element_rect(color = "#e8eded", fill = "#e8eded"),
         panel.background = element_rect(color = "#e8eded", fill = "#e8eded"),
