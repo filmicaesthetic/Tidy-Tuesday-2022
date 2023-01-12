@@ -1,21 +1,24 @@
 ## birbs
 
+# load packages
 pacman::p_load(dplyr, ggplot2, tidyr, camcorder, gganimate, maps, mapdata, stringr, av, tweenr, lubridate)
 
-dir.create("2023 Week 2 - Birdwatch")
-
+# set up camcorder
 camcorder::gg_record(dir = "2023 Week 2 - Birdwatch/camcorder", width = 10, height = 6)
 
+# load data
 tuesdata <- tidytuesdayR::tt_load(2023, week = 2)
 
 public <- tuesdata$PFW_2021_public
 countsite <- tuesdata$PFW_count_site_data_public_2021
 
+# remove canada, ak + hi for map simplicity
 public_us <- public |>
   filter(grepl("US-", subnational1_code),
          subnational1_code != "US-AK",
          subnational1_code != "US-HI")
 
+# get list of most sighted birds
 top_birds <- public_us |>
   group_by(species_code) |>
   summarise(n = n(),
@@ -24,11 +27,13 @@ top_birds <- public_us |>
   arrange(-n) |>
   head(20)
 
+# get average long/lat for locations in state
 state_longlat <- public_us |>
   group_by(subnational1_code) |>
   summarise(longitude = mean(longitude),
             latitude = mean(latitude)) |>
   ungroup()
+
 
 public_plot <- public_us |>
   mutate(date_mon = as.Date(paste0(Year, "-", str_pad(Month, 2, pad = 0), "-01"))) |>
@@ -155,9 +160,6 @@ all_birds <- birds_1 |>
   mutate(date_text = month(date_mon))
   
 
-chk <- all_birds |>
-  group_by(subnational1_code, date_text, .frame) |>
-  summarise(n = n())
 
 all_birds_plot <- all_birds |>
   group_by(bird_id) |>
