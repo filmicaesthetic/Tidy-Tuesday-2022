@@ -11,6 +11,11 @@ country_regions <- tuesdata$country_regions
 global_human_day <- tuesdata$global_human_day
 global_economic_activity <- tuesdata$global_economic_activity
 
+write_csv(all_countries, "2023 Week 37 - Global Human Day/all_countries.csv")
+write_csv(country_regions, "2023 Week 37 - Global Human Day/country_regions.csv")
+write_csv(global_human_day, "2023 Week 37 - Global Human Day/global_human_day.csv")
+
+
 avg_lkp <- global_human_day |>
   select(Subcategory, avghoursperday = hoursPerDay)
 

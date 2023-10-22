@@ -1,0 +1,249 @@
+region_code,region_name,country_name,M49_code,country_iso2,country_iso3,alt_country_name,alt_country_name1,alt_country_name2,alt_country_name3,alt_country_name4,alt_country_name5,alt_country_name6,other_code1,other_code2
+AF_N,Northern Africa,Algeria,12,DZ,DZA,Algeria,People’s Democratic Republic of Algeria,NA,NA,NA,NA,NA,NA,NA
+AF_N,Northern Africa,Egypt,818,EG,EGY,Egypt,Arab Republic of Egypt,NA,NA,NA,NA,NA,NA,NA
+AF_N,Northern Africa,Libya,434,LY,LBY,Libya,State of Libya,NA,NA,NA,NA,NA,NA,NA
+AF_N,Northern Africa,Morocco,504,MA,MAR,Morocco,Kingdom of Morocco,NA,NA,NA,NA,NA,NA,NA
+AF_N,Northern Africa,Sudan,729,SD,SDN,Sudan,Republic of the Sudan,The Sudan,NA,NA,NA,NA,NA,NA
+AF_N,Northern Africa,Tunisia,788,TN,TUN,Tunisia,Republic of Tunisia,NA,NA,NA,NA,NA,NA,NA
+AF_N,Northern Africa,Western Sahara,732,EH,ESH,Western Sahara,Spanish Sahara,NA,NA,NA,NA,NA,NA,NA
+AF_E,Eastern Africa,British Indian Ocean Territory,86,IO,IOT,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AF_E,Eastern Africa,Burundi,108,BI,BDI,Burundi,Republic of Burundi,Kingdom of Burundi,NA,NA,NA,NA,NA,NA
+AF_E,Eastern Africa,Comoros,174,KM,COM,Comoros,Union of the Comoros,Federal Islamic Republic of the Comoros,NA,United Republic of the Comoros,NA,NA,NA,NA
+AF_E,Eastern Africa,Djibouti,262,DJ,DJI,Djibouti,Republic of Djibouti,NA,NA,NA,NA,NA,NA,NA
+AF_E,Eastern Africa,Eritrea,232,ER,ERI,Eritrea,State of Eritrea,NA,NA,NA,NA,NA,NA,NA
+AF_E,Eastern Africa,Ethiopia,231,ET,ETH,Ethiopia,Federal Democratic Republic of Ethiopia,People's Democratic Republic of Ethiopia,NA,NA,NA,NA,NA,NA
+AF_E,Eastern Africa,French Southern Territories,260,TF,ATF,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AF_E,Eastern Africa,Kenya,404,KE,KEN,Kenya,Republic of Kenya,NA,NA,NA,NA,NA,NA,NA
+AF_E,Eastern Africa,Madagascar,450,MG,MDG,Madagascar,Republic of Madagascar,NA,NA,NA,NA,NA,NA,NA
+AF_E,Eastern Africa,Malawi,454,MW,MWI,Malawi,Republic of Malawi,NA,NA,NA,NA,NA,NA,NA
+AF_E,Eastern Africa,Mauritius,480,MU,MUS,Mauritius,Republic of Mauritius,NA,NA,NA,NA,NA,NA,NA
+AF_E,Eastern Africa,Mayotte,175,YT,MYT,Mayotte,Territorial Collectivity of Mayotte,NA,NA,NA,NA,NA,NA,NA
+AF_E,Eastern Africa,Mozambique,508,MZ,MOZ,Mozambique,Republic of Mozambique,NA,NA,NA,NA,NA,NA,NA
+AF_E,Eastern Africa,Réunion,638,RE,REU,Réunion,Reunion,Department of Reunion,Department of Réunion,NA,NA,NA,NA,NA
+AF_E,Eastern Africa,Rwanda,646,RW,RWA,Rwanda,Republic of Rwanda,NA,NA,NA,NA,NA,NA,NA
+AF_E,Eastern Africa,Seychelles,690,SC,SYC,Seychelles,Republic of Seychelles,NA,NA,NA,NA,NA,NA,NA
+AF_E,Eastern Africa,Somalia,706,SO,SOM,Somalia,Federal Republic of Somalia,Somali Democratic Republic,NA,NA,NA,NA,NA,NA
+AF_E,Eastern Africa,South Sudan,728,SS,SSD,South Sudan,Republic of South Sudan,NA,NA,NA,NA,NA,NA,NA
+AF_E,Eastern Africa,Uganda,800,UG,UGA,Uganda,Republic of Uganda,NA,NA,NA,NA,NA,NA,NA
+AF_E,Eastern Africa,United Republic of Tanzania,834,TZ,TZA,"Tanzania, United Republic of","Tanzania, United Republic of",Tanzania,United Republic of Tanzania,NA,NA,NA,NA,NA
+AF_E,Eastern Africa,Zambia,894,ZM,ZMB,Zambia,Republic of Zambia,Northern Rhodesia,NA,NA,NA,NA,NA,NA
+AF_E,Eastern Africa,Zimbabwe,716,ZW,ZWE,Zimbabwe,Republic of Zimbabwe,Rhodesia,Republic of Rhodesia,Southern Rhodesia,NA,NA,NA,NA
+AF_M,Middle Africa,Angola,24,AO,AGO,Angola,Republic of Angola,NA,NA,NA,NA,NA,NA,NA
+AF_M,Middle Africa,Cameroon,120,CM,CMR,Cameroon,Republic of Cameroon,Cameroons,NA,NA,NA,NA,NA,NA
+AF_M,Middle Africa,Central African Republic,140,CF,CAF,Central African Republic,Central African Empire,NA,NA,NA,NA,NA,NA,NA
+AF_M,Middle Africa,Chad,148,TD,TCD,Chad,Republic of Chad,NA,NA,NA,NA,NA,NA,NA
+AF_M,Middle Africa,Congo,178,CG,COG,Congo,Congo Republic,Republic of the Congo,Congo (Brazzaville),Congo-Brazzaville,Republic of Congo,French Congo,NA,NA
+AF_M,Middle Africa,Democratic Republic of the Congo,180,CD,COD,"Congo, Democratic Republic of the",Democratic Republic of the Congo,"Congo, Democratic Republic of the",Zaire,NA,NA,NA,DRC,NA
+AF_M,Middle Africa,Equatorial Guinea,226,GQ,GNQ,Equatorial Guinea,Republic of Equatorial Guinea,NA,NA,NA,NA,NA,NA,NA
+AF_M,Middle Africa,Gabon,266,GA,GAB,Gabon,Gabón,Gabonese Republic,NA,NA,NA,NA,NA,NA
+AF_M,Middle Africa,Sao Tome and Principe,678,ST,STP,Sao Tome and Principe,Democratic Republic of Sao Tome and Principe,São Tomé and Príncipe,Democratic Republic of São Tomé and Príncipe,NA,NA,NA,NA,NA
+AF_S,Southern Africa,Botswana,72,BW,BWA,Botswana,Republic of Botswana,NA,NA,NA,NA,NA,NA,NA
+AF_S,Southern Africa,Eswatini,748,SZ,SWZ,Swaziland,Eswatini,Kingdom of Eswatini,Kingdom of Swaziland,NA,NA,NA,NA,NA
+AF_S,Southern Africa,Lesotho,426,LS,LSO,Lesotho,Kingdom of Lesotho,NA,NA,NA,NA,NA,NA,NA
+AF_S,Southern Africa,Namibia,516,NA,NAM,Namibia,Republic of Namibia,NA,NA,NA,NA,NA,NA,NA
+AF_S,Southern Africa,South Africa,710,ZA,ZAF,South Africa,Republic of South Africa,NA,NA,NA,NA,NA,NA,NA
+AF_W,Western Africa,Benin,204,BJ,BEN,Benin,Republic of Benin,NA,NA,NA,NA,NA,NA,NA
+AF_W,Western Africa,Burkina Faso,854,BF,BFA,Burkina Faso,Burkina,NA,NA,NA,NA,NA,NA,NA
+AF_W,Western Africa,Cabo Verde,132,CV,CPV,Cape Verde,Republic of Cape Verde,Cabo Verde,NA,NA,NA,NA,NA,NA
+AF_W,Western Africa,Côte d’Ivoire,384,CI,CIV,Côte d'Ivoire,Cote d'Ivoire,Republic of Cote d'Ivoire,Republic of the Ivory Coast,Ivory Coast,The Ivory Coast,NA,NA,NA
+AF_W,Western Africa,Gambia,270,GM,GMB,Gambia,Republic of The Gambia,The Gambia,NA,NA,NA,NA,NA,NA
+AF_W,Western Africa,Ghana,288,GH,GHA,Ghana,Republic of Ghana,Gold Coast,United Gold Coast Convention,NA,NA,NA,UGCC,NA
+AF_W,Western Africa,Guinea,324,GN,GIN,Guinea,French Guinea,Republic of Guinea,NA,NA,NA,NA,NA,NA
+AF_W,Western Africa,Guinea-Bissau,624,GW,GNB,Guinea-Bissau,Republic of Guinea-Bissau,Portuguese Guinea,NA,NA,NA,NA,NA,NA
+AF_W,Western Africa,Liberia,430,LR,LBR,Liberia,Republic of Liberia,NA,NA,NA,NA,NA,NA,NA
+AF_W,Western Africa,Mali,466,ML,MLI,Mali,Republic of Mali,French Sudan,NA,NA,NA,NA,NA,NA
+AF_W,Western Africa,Mauritania,478,MR,MRT,Mauritania,Islamic Republic of Mauritania,Islamic Arab and African Republic of Mauritania,NA,NA,NA,NA,NA,NA
+AF_W,Western Africa,Niger,562,NE,NER,Niger,Republic of Niger,NA,NA,NA,NA,NA,NA,NA
+AF_W,Western Africa,Nigeria,566,NG,NGA,Nigeria,Federal Republic of Nigeria,NA,NA,NA,NA,NA,NA,NA
+AF_W,Western Africa,Saint Helena,654,SH,SHN,Saint Helena,"Saint Helena, Ascension, and Tristan da Cunha",NA,NA,NA,NA,NA,NA,NA
+AF_W,Western Africa,Senegal,686,SN,SEN,Senegal,Republic of Senegal,NA,NA,NA,NA,NA,NA,NA
+AF_W,Western Africa,Sierra Leone,694,SL,SLE,Sierra Leone,Republic of Sierra Leone,NA,NA,NA,NA,NA,NA,NA
+AF_W,Western Africa,Togo,768,TG,TGO,Togo,Togolese Republic,Republic of Togo,NA,NA,NA,NA,NA,NA
+AM_C,Caribbean,Anguilla,660,AI,AIA,Anguilla,NA,NA,NA,NA,NA,NA,NA,NA
+AM_C,Caribbean,Antigua and Barbuda,28,AG,ATG,Antigua and Barbuda,NA,NA,NA,NA,NA,NA,NA,NA
+AM_C,Caribbean,Aruba,533,AW,ABW,Aruba,Country of Aruba,NA,NA,NA,NA,NA,NA,NA
+AM_C,Caribbean,Bahamas,44,BS,BHS,Bahamas,Commonwealth of The Bahamas,The Bahamas,"Bahamas, The",NA,NA,NA,NA,NA
+AM_C,Caribbean,Barbados,52,BB,BRB,Barbados,NA,NA,NA,NA,NA,NA,NA,NA
+AM_C,Caribbean,"Bonaire, Sint Eustatius and Saba",535,BQ,BES,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AM_C,Caribbean,British Virgin Islands,92,VG,VGB,British Virgin Islands,NA,NA,NA,NA,NA,NA,NA,NA
+AM_C,Caribbean,Cayman Islands,136,KY,CYM,Cayman Islands,NA,NA,NA,NA,NA,NA,NA,NA
+AM_C,Caribbean,Cuba,192,CU,CUB,Cuba,Republic of Cuba,NA,NA,NA,NA,NA,NA,NA
+AM_C,Caribbean,Curaçao,531,CW,CUW,Curacao,Country of Curacao,NA,NA,NA,NA,NA,NA,NA
+AM_C,Caribbean,Dominica,212,DM,DMA,Dominica,Commonwealth of Dominica,NA,NA,NA,NA,NA,NA,NA
+AM_C,Caribbean,Dominican Republic,214,DO,DOM,Dominican Republic,The Dominican,NA,NA,NA,NA,NA,NA,NA
+AM_C,Caribbean,Grenada,308,GD,GRD,Grenada,NA,NA,NA,NA,NA,NA,NA,NA
+AM_C,Caribbean,Guadeloupe,312,GP,GLP,Guadeloupe,Department of Guadeloupe,NA,NA,NA,NA,NA,NA,NA
+AM_C,Caribbean,Haiti,332,HT,HTI,Haiti,Republic of Haiti,NA,NA,NA,NA,NA,NA,NA
+AM_C,Caribbean,Jamaica,388,JM,JAM,Jamaica,NA,NA,NA,NA,NA,NA,NA,NA
+AM_C,Caribbean,Martinique,474,MQ,MTQ,Martinique,Department of Martinique,NA,NA,NA,NA,NA,NA,NA
+AM_C,Caribbean,Montserrat,500,MS,MSR,Montserrat,NA,NA,NA,NA,NA,NA,NA,NA
+AM_C,Caribbean,Puerto Rico,630,PR,PRI,Puerto Rico,Commonwealth of Puerto Rico,NA,NA,NA,NA,NA,NA,NA
+AM_C,Caribbean,Saint Barthélemy,652,BL,BLM,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AM_C,Caribbean,Saint Kitts and Nevis,659,KN,KNA,Saint Kitts and Nevis,Federation of Saint Kitts and Nevis,Saint Kitts-Nevis,Saints Kitts,Saint Christopher,NA,NA,NA,NA
+AM_C,Caribbean,Saint Lucia,662,LC,LCA,Saint Lucia,NA,NA,NA,NA,NA,NA,NA,NA
+AM_C,Caribbean,Saint Martin (French Part),663,MF,MAF,Saint-Martin (French part),Saint Martin,Saint-Martin,Overseas Collectivity of Saint Martin,Overseas Collectivity of Saint-Martin,NA,NA,NA,NA
+AM_C,Caribbean,Saint Vincent and the Grenadines,670,VC,VCT,Saint Vincent and Grenadines,Saint Vincent and the Grenadines,Saint Vincent,NA,NA,NA,NA,NA,NA
+AM_C,Caribbean,Sint Maarten (Dutch part),534,SX,SXM,Sint Maarten (Kingdom of the Netherlands),Sint Maarten,Kingdom of the Netherlands,Country of Sint Maarten,NA,NA,NA,NA,NA
+AM_C,Caribbean,Trinidad and Tobago,780,TT,TTO,Trinidad and Tobago,Republic of Trinidad and Tobago,Trinbago,NA,NA,NA,NA,NA,NA
+AM_C,Caribbean,Turks and Caicos Islands,796,TC,TCA,Turks and Caicos Islands,NA,NA,NA,NA,NA,NA,NA,NA
+AM_C,Caribbean,United States Virgin Islands,850,VI,VIR,United States Virgin Islands,"Virgin Islands, US",NA,NA,NA,NA,NA,NA,NA
+AM_C,Central America,Belize,84,BZ,BLZ,Belize,British Honduras,NA,NA,NA,NA,NA,NA,NA
+AM_C,Central America,Costa Rica,188,CR,CRI,Costa Rica,Republic of Costa Rica,NA,NA,NA,NA,NA,NA,NA
+AM_C,Central America,El Salvador,222,SV,SLV,El Salvador,Republic of El Salvador,NA,NA,NA,NA,NA,NA,NA
+AM_C,Central America,Guatemala,320,GT,GTM,Guatemala,Republic of Guatemala,NA,NA,NA,NA,NA,NA,NA
+AM_C,Central America,Honduras,340,HN,HND,Honduras,Republic of Honduras,NA,NA,NA,NA,NA,NA,NA
+AM_C,Central America,Mexico,484,MX,MEX,Mexico,United Mexican States,NA,NA,NA,NA,NA,NA,NA
+AM_C,Central America,Nicaragua,558,NI,NIC,Nicaragua,Republic of Nicaragua,NA,NA,NA,NA,NA,NA,NA
+AM_C,Central America,Panama,591,PA,PAN,Panama,Republic of Panama,NA,NA,NA,NA,NA,NA,NA
+AM_S,South America,Argentina,32,AR,ARG,Argentina,Argentine Republic,Argentine Confederation,NA,NA,NA,NA,NA,NA
+AM_S,South America,Bolivia (Plurinational State of),68,BO,BOL,Bolivia,Plurinational State of Bolivia,Republic of Bolivia,NA,NA,NA,NA,NA,NA
+AM_S,South America,Bouvet Island,74,BV,BVT,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AM_S,South America,Brazil,76,BR,BRA,Brazil,Federative Republic of Brazil,Brasil,Federative Republic of Brasil,NA,NA,NA,NA,NA
+AM_S,South America,Chile,152,CL,CHL,Chile,Republic of Chile,NA,NA,NA,NA,NA,NA,NA
+AM_S,South America,Colombia,170,CO,COL,Colombia,Republic of Colombia,NA,NA,NA,NA,NA,NA,NA
+AM_S,South America,Ecuador,218,EC,ECU,Ecuador,Republic of Ecuador,NA,NA,NA,NA,NA,NA,NA
+AM_S,South America,Falkland Islands (Malvinas),238,FK,FLK,Falkland Islands (Malvinas),Falkland Islands,Islas Malvinas,NA,NA,NA,NA,NA,NA
+AM_S,South America,French Guiana,254,GF,GUF,French Guiana,Department of Guiana,Guiana,NA,NA,NA,NA,NA,NA
+AM_S,South America,Guyana,328,GY,GUY,Guyana,British Guiana,NA,NA,NA,NA,NA,NA,NA
+AM_S,South America,Paraguay,600,PY,PRY,Paraguay,Republic of Paraguay,NA,NA,NA,NA,NA,NA,NA
+AM_S,South America,Peru,604,PE,PER,Peru,Republic of Peru,NA,NA,NA,NA,NA,NA,NA
+AM_S,South America,South Georgia and the South Sandwich Islands,239,GS,SGS,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AM_S,South America,Suriname,740,SR,SUR,Suriname,Republic of Suriname,Dutch Guiana,Netherlands Guiana,Surinam,NA,NA,NA,NA
+AM_S,South America,Uruguay,858,UY,URY,Uruguay,Oriental Republic of Uruguay,Eastern Republic of Uruguay,NA,NA,NA,NA,NA,NA
+AM_S,South America,Venezuela (Bolivarian Republic of),862,VE,VEN,"Venezuela, Bolivarian Republic of",Venezuela,"Venezuela, Bolivarian Republic of",Bolivarian Republic of Venezuela,NA,NA,NA,NA,NA
+AM_N,Northern America,Bermuda,60,BM,BMU,Bermuda,Bermuda,NA,NA,NA,NA,NA,NA,NA
+AM_N,Northern America,Canada,124,CA,CAN,Canada,Dominion of Canada,NA,NA,NA,NA,NA,NA,NA
+AM_N,Northern America,Greenland,304,GL,GRL,Greenland,NA,NA,NA,NA,NA,NA,NA,NA
+AM_N,Northern America,Saint Pierre and Miquelon,666,PM,SPM,Saint Pierre and Miquelon,Territorial Collectivity of Saint Pierre and Miquelon,NA,NA,NA,NA,NA,NA,NA
+AM_N,Northern America,United States of America,840,US,USA,United States,United States of America,America,NA,NA,NA,NA,NA,NA
+AS_C,Central Asia,Kazakhstan,398,KZ,KAZ,Kazakhstan,Republic of Kazakhstan,NA,NA,NA,NA,NA,NA,NA
+AS_C,Central Asia,Kyrgyzstan,417,KG,KGZ,Kyrgyzstan,Kyrgyz Republic,Republic of Kyrgyzstan,NA,NA,NA,NA,NA,NA
+AS_C,Central Asia,Tajikistan,762,TJ,TJK,Tajikistan,Republic of Tajikistan,NA,NA,NA,NA,NA,NA,NA
+AS_C,Central Asia,Turkmenistan,795,TM,TKM,Turkmenistan,Republic of Turkmenistan,NA,NA,NA,NA,NA,NA,NA
+AS_C,Central Asia,Uzbekistan,860,UZ,UZB,Uzbekistan,Republic of Uzbekistan,NA,NA,NA,NA,NA,NA,NA
+AS_E,Eastern Asia,China,156,CN,CHN,China,People's Republic of China,Mainland China,Communist China,NA,NA,NA,PRC,NA
+AS_E,Eastern Asia,"China, Hong Kong Special Administrative Region",344,HK,HKG,"Hong Kong, China","Hong Kong, SAR China",Hong Kong Special Administrative Region,SAR China,Hong Kong SAR,Hong Kong,NA,NA,NA
+AS_E,Eastern Asia,"China, Macao Special Administrative Region",446,MO,MAC,"Macau, China",Macau,Macao,Macau Special Administrative Region,Macau SAR,NA,NA,NA,NA
+AS_E,Eastern Asia,Democratic People's Republic of Korea,408,KP,PRK,Korea Democratic People's Republic of,North Korea,Democratic People's Republic of Korea,"Korea, North",NA,NA,NA,DPRK,NA
+AS_E,Eastern Asia,Japan,392,JP,JPN,Japan,Nihon,Nippon,NA,NA,NA,NA,NA,NA
+AS_E,Eastern Asia,Mongolia,496,MN,MNG,Mongolia,State of Mongolia,NA,NA,NA,NA,NA,NA,NA
+AS_E,Eastern Asia,Republic of Korea,410,KR,KOR,"Korea, Republic of",South Korea,Republic of Korea,"Korea, South",NA,NA,NA,ROK,NA
+AS_E,Eastern Asia,Taiwan,158,TW,TWN,Republic of China,NA,NA,NA,NA,NA,NA,NA,NA
+AS_SE,South-eastern Asia,Brunei Darussalam,96,BN,BRN,Brunei Darussalam,Brunei,Nation of Brunei,State of Brunei,NA,NA,NA,NA,NA
+AS_SE,South-eastern Asia,Cambodia,116,KH,KHM,Cambodia,Kingdom of Cambodia,State of Cambodia,NA,NA,NA,NA,NA,NA
+AS_SE,South-eastern Asia,Indonesia,360,ID,IDN,Indonesia,Dutch East Indies,East Indies,Repubilc of Indonesia,NA,NA,NA,NA,NA
+AS_SE,South-eastern Asia,Lao People's Democratic Republic,418,LA,LAO,Lao People's Democratic Republic,Lao PDR,Laos,NA,NA,NA,NA,NA,NA
+AS_SE,South-eastern Asia,Malaysia,458,MY,MYS,Malaysia,Federation of Malaysia,NA,NA,NA,NA,NA,NA,NA
+AS_SE,South-eastern Asia,Myanmar,104,MM,MMR,Myanmar,Union of Myanmar,Burma,Union of Burma,NA,NA,NA,NA,NA
+AS_SE,South-eastern Asia,Philippines,608,PH,PHL,Philippines,Republic of the Philippines,NA,NA,NA,NA,NA,NA,NA
+AS_SE,South-eastern Asia,Singapore,702,SG,SGP,Singapore,Republic of Singapore,NA,NA,NA,NA,NA,NA,NA
+AS_SE,South-eastern Asia,Thailand,764,TH,THA,Thailand,Kingdom of Thailand,NA,NA,NA,NA,NA,NA,NA
+AS_SE,South-eastern Asia,Timor-Leste,626,TL,TLS,Timor-Leste,Democratic Republic of Timor-Leste,East Timor,NA,NA,NA,NA,NA,NA
+AS_SE,South-eastern Asia,Viet Nam,704,VN,VNM,Viet Nam,Socialist Republic of Vietnam,Vietnam,Socialist Republic of Viet Nam,NA,NA,NA,SRV,NA
+AS_S,Southern Asia,Afghanistan,4,AF,AFG,Afghanistan,Islamic Republic of Afghanistan,NA,NA,NA,NA,NA,NA,NA
+AS_S,Southern Asia,Bangladesh,50,BD,BGD,Bangladesh,People's Republic of Bangladesh,NA,NA,NA,NA,NA,NA,NA
+AS_S,Southern Asia,Bhutan,64,BT,BTN,Bhutan,Kingdom of Bhutan,NA,NA,NA,NA,NA,NA,NA
+AS_S,Southern Asia,India,356,IN,IND,India,Republic of India,Bharat,Bhārat,NA,NA,NA,NA,NA
+AS_S,Southern Asia,Iran (Islamic Republic of),364,IR,IRN,"Iran, Islamic Republic of",Iran,Islamic Republic of Iran,NA,NA,NA,NA,IRI,NA
+AS_S,Southern Asia,Maldives,462,MV,MDV,Maldives,Republic of Maldives,Republic of the Maldives,The Maldive Islands,NA,NA,NA,NA,NA
+AS_S,Southern Asia,Nepal,524,NP,NPL,Nepal,Federal Democratic Republic of Nepal,Kingdom of Nepal,NA,NA,NA,NA,NA,NA
+AS_S,Southern Asia,Pakistan,586,PK,PAK,Pakistan,Islamic Republic of Pakistan,NA,NA,NA,NA,NA,NA,NA
+AS_S,Southern Asia,Sri Lanka,144,LK,LKA,Sri Lanka,Democratic Socialist Republic of Sri Lanka,Ceylon,NA,NA,NA,NA,NA,NA
+AS_W,Western Asia,Armenia,51,AM,ARM,Armenia,Republic of Armenia,NA,NA,NA,NA,NA,NA,NA
+AS_W,Western Asia,Azerbaijan,31,AZ,AZE,Azerbaijan,Republic of Azerbaijan,Azerbaijani Republic,NA,NA,NA,NA,NA,NA
+AS_W,Western Asia,Bahrain,48,BH,BHR,Bahrain,Kingdom of Bahrain,State of Bahrain,NA,NA,NA,NA,NA,NA
+AS_W,Western Asia,Cyprus,196,CY,CYP,Cyprus,Republic of Cyprus,NA,NA,NA,NA,NA,NA,NA
+AS_W,Western Asia,Georgia,268,GE,GEO,Georgia,Republic of Georgia,NA,NA,NA,NA,NA,NA,NA
+AS_W,Western Asia,Iraq,368,IQ,IRQ,Iraq,Republic of Iraq,NA,NA,NA,NA,NA,NA,NA
+AS_W,Western Asia,Israel,376,IL,ISR,Israel,State of Israel,NA,NA,NA,NA,NA,NA,NA
+AS_W,Western Asia,Jordan,400,JO,JOR,Jordan,Hashemite Kingdom of Jordan,NA,NA,NA,NA,NA,NA,NA
+AS_W,Western Asia,Kuwait,414,KW,KWT,Kuwait,State of Kuwait,NA,NA,NA,NA,NA,NA,NA
+AS_W,Western Asia,Lebanon,422,LB,LBN,Lebanon,Lebanese Republic,Republic of Lebanon,NA,NA,NA,NA,NA,NA
+AS_W,Western Asia,Oman,512,OM,OMN,Oman,Sultanate of Oman,NA,NA,NA,NA,NA,NA,NA
+AS_W,Western Asia,Qatar,634,QA,QAT,Qatar,State of Qatar,Dawlat Qatar,NA,NA,NA,NA,NA,NA
+AS_W,Western Asia,Saudi Arabia,682,SA,SAU,Saudi Arabia,Kingdom of Saudi Arabia,NA,NA,NA,NA,NA,KSA,NA
+AS_W,Western Asia,State of Palestine,275,PS,PSE,Occupied Palestinian Territory,the State of Palestine,"Palestine, State of",Palestine,"Palestine, the State of ",Occupied Palestinian Territories,West Bank and Gaza Strip,NA,NA
+AS_W,Western Asia,Syrian Arab Republic,760,SY,SYR,Syrian Arab Republic,Syria,NA,NA,NA,NA,NA,NA,NA
+AS_W,Western Asia,Turkey,792,TR,TUR,Turkey,Republic of Turkey,NA,NA,NA,NA,NA,NA,NA
+AS_W,Western Asia,United Arab Emirates,784,AE,ARE,United Arab Emirates,The Emirates,NA,NA,NA,NA,NA,UAE,NA
+AS_W,Western Asia,Yemen,887,YE,YEM,Yemen,Republic of Yemen,Republic of Yémen ,Yémen,NA,NA,NA,NA,NA
+EU_E,Eastern Europe,Belarus,112,BY,BLR,Belarus,Republic of Belarus,Belarús,NA,NA,NA,NA,NA,NA
+EU_E,Eastern Europe,Bulgaria,100,BG,BGR,Bulgaria,Republic of Bulgaria,People's Republic of Bulgaria,NA,NA,NA,NA,NA,NA
+EU_E,Eastern Europe,Czechia,203,CZ,CZE,Czech Republic,Czechia,NA,NA,NA,NA,NA,CR,CSR
+EU_E,Eastern Europe,Hungary,348,HU,HUN,Hungary,Hungarian Republic,NA,NA,NA,NA,NA,NA,NA
+EU_E,Eastern Europe,Poland,616,PL,POL,Poland,Republic of Poland,Polish Republic,NA,NA,NA,NA,RP,NA
+EU_E,Eastern Europe,Republic of Moldova,498,MD,MDA,"Moldova, Republic of",Moldova,Republic of Moldova,"Moldova, Republic of",Moldavia,NA,NA,NA,NA
+EU_E,Eastern Europe,Romania,642,RO,ROU,Romania,Romanian People's Republic,Republic of Romania,NA,NA,NA,NA,NA,NA
+EU_E,Eastern Europe,Russian Federation,643,RU,RUS,Russian Federation,Russian Federation,NA,NA,NA,NA,NA,RF,NA
+EU_E,Eastern Europe,Slovakia,703,SK,SVK,Slovakia,Slovak Republic,NA,NA,NA,NA,NA,SR,SSR
+EU_E,Eastern Europe,Ukraine,804,UA,UKR,Ukraine,NA,NA,NA,NA,NA,NA,NA,NA
+EU_N,Northern Europe,Åland Islands,248,AX,ALA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+EU_N,Northern Europe,Guernsey,831,GG,GGY,Guernsey,Bailiwick of Guernsey,NA,NA,NA,NA,NA,NA,NA
+EU_N,Northern Europe,Jersey,832,JE,JEY,Jersey,Bailiwick of Jersey,NA,NA,NA,NA,NA,NA,NA
+EU_N,Northern Europe,Denmark,208,DK,DNK,Denmark,Kingdom of Denmark,NA,NA,NA,NA,NA,NA,NA
+EU_N,Northern Europe,Estonia,233,EE,EST,Estonia,Republic of Estonia,NA,NA,NA,NA,NA,NA,NA
+EU_N,Northern Europe,Faroe Islands,234,FO,FRO,Faroe Islands,NA,NA,NA,NA,NA,NA,NA,NA
+EU_N,Northern Europe,Finland,246,FI,FIN,Finland,Republic of Finland,NA,NA,NA,NA,NA,NA,NA
+EU_N,Northern Europe,Iceland,352,IS,ISL,Iceland,Republic of Iceland,NA,NA,NA,NA,NA,NA,NA
+EU_N,Northern Europe,Ireland,372,IE,IRL,Ireland,Republic of Ireland,NA,NA,NA,NA,NA,NA,NA
+EU_N,Northern Europe,Isle of Man,833,IM,IMN,Isle of Man,NA,NA,NA,NA,NA,NA,NA,NA
+EU_N,Northern Europe,Latvia,428,LV,LVA,Latvia,Republic of Latvia,NA,NA,NA,NA,NA,NA,NA
+EU_N,Northern Europe,Lithuania,440,LT,LTU,Lithuania,Republic of Lithuania,NA,NA,NA,NA,NA,NA,NA
+EU_N,Northern Europe,Norway,578,NO,NOR,Norway,Kingdom of Norway,NA,NA,NA,NA,NA,NA,NA
+EU_N,Northern Europe,Svalbard and Jan Mayen Islands,744,SJ,SJM,NA,NA,NA,NA,NA,NA,NA,NA,NA
+EU_N,Northern Europe,Sweden,752,SE,SWE,Sweden,Kingdom of Sweden,NA,NA,NA,NA,NA,NA,NA
+EU_N,Northern Europe,United Kingdom of Great Britain and Northern Ireland,826,GB,GBR,United Kingdom,Great Britain, United Kingdom of Great Britain and Northern Ireland,NA,NA,NA,NA,UK,NA
+EU_S,Southern Europe,Albania,8,AL,ALB,Albania,Republic of Albania,NA,NA,NA,NA,NA,NA,NA
+EU_S,Southern Europe,Andorra,20,AD,AND,Andorra,Principality of Andorra,Principality of the Valleys of Andorra,NA,NA,NA,NA,NA,NA
+EU_S,Southern Europe,Bosnia and Herzegovina,70,BA,BIH,Bosnia and Herzegovina,People's Republic of Bosnia and Herzegovina,Bosnia,Republic of Bosnia and Herzegovina,NA,NA,NA,NA,NA
+EU_S,Southern Europe,Croatia,191,HR,HRV,Croatia,Republic of Croatia,NA,NA,NA,NA,NA,NA,NA
+EU_S,Southern Europe,Gibraltar,292,GI,GIB,Gibraltar,NA,NA,NA,NA,NA,NA,NA,NA
+EU_S,Southern Europe,Greece,300,GR,GRC,Greece,Hellenic Republic,Hellas,NA,NA,NA,NA,NA,NA
+EU_S,Southern Europe,Holy See,336,VA,VAT,NA,NA,NA,NA,NA,NA,NA,NA,NA
+EU_S,Southern Europe,Italy,380,IT,ITA,Italy,Italian Republic,NA,NA,NA,NA,NA,NA,NA
+EU_S,Southern Europe,Malta,470,MT,MLT,Malta,Republic of Malta,NA,NA,NA,NA,NA,NA,NA
+EU_S,Southern Europe,Montenegro,499,ME,MNE,Montenegro,NA,NA,NA,NA,NA,NA,NA,NA
+EU_S,Southern Europe,North Macedonia,807,MK,MKD,Macedonia the former Yugoslav Republic of,"Macedonia, Republic of",Republic of Macedonia,Macedonia,North Macedonia,Republic of North Macedonia,NA,NA,NA
+EU_S,Southern Europe,Portugal,620,PT,PRT,Portugal,Portuguese Republic,NA,NA,NA,NA,NA,NA,NA
+EU_S,Southern Europe,San Marino,674,SM,SMR,San Marino,Republic of San Marino,Most Serene Republic of San Marino,NA,NA,NA,NA,NA,NA
+EU_S,Southern Europe,Serbia,688,RS,SRB,Serbia,Republic of Serbia,NA,NA,NA,NA,NA,NA,NA
+EU_S,Southern Europe,Slovenia,705,SI,SVN,Slovenia,Republic of Slovenia,NA,NA,NA,NA,NA,RS,NA
+EU_S,Southern Europe,Spain,724,ES,ESP,Spain,Kingdom of Spain,NA,NA,NA,NA,NA,NA,NA
+EU_W,Western Europe,Austria,40,AT,AUT,Austria,Republic of Austria,NA,NA,NA,NA,NA,NA,NA
+EU_W,Western Europe,Belgium,56,BE,BEL,Belgium,Kingdom of Belgium,NA,NA,NA,NA,NA,NA,NA
+EU_W,Western Europe,France,250,FR,FRA,France,French Republic,NA,NA,NA,NA,NA,NA,NA
+EU_W,Western Europe,Germany,276,DE,DEU,Germany,Federal Republic of Germany,NA,NA,NA,NA,NA,BRD,FRG
+EU_W,Western Europe,Liechtenstein,438,LI,LIE,Liechtenstein,Principality of Liechtenstein,NA,NA,NA,NA,NA,NA,NA
+EU_W,Western Europe,Luxembourg,442,LU,LUX,Luxembourg,Grand Duchy of Luxembourg,NA,NA,NA,NA,NA,NA,NA
+EU_W,Western Europe,Monaco,492,MC,MCO,Monaco,Principality of Monaco,NA,NA,NA,NA,NA,NA,NA
+EU_W,Western Europe,Netherlands,528,NL,NLD,Netherlands,Kingdom of the Netherlands,Holland,NA,NA,NA,NA,NA,NA
+EU_W,Western Europe,Switzerland,756,CH,CHE,Switzerland,Swiss Confederation,NA,NA,NA,NA,NA,NA,NA
+ANZ,Australia and New Zealand,Australia,36,AU,AUS,Australia,Commonwealth of Australia,Oz,NA,NA,NA,NA,NA,NA
+ANZ,Australia and New Zealand,Christmas Island,162,CX,CXR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ANZ,Australia and New Zealand,Cocos (Keeling) Islands,166,CC,CCK,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ANZ,Australia and New Zealand,Heard Island and McDonald Islands,334,HM,HMD,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ANZ,Australia and New Zealand,New Zealand,554,NZ,NZL,New Zealand,Aotearoa,Realm of New Zealand,Dominion of New Zealand,NA,NA,NA,NA,NA
+ANZ,Australia and New Zealand,Norfolk Island,574,NF,NFK,Norfolk Island,Territory of Norfolk Island,NA,NA,NA,NA,NA,NA,NA
+AS_SE,Western Pacific Islands,Fiji,242,FJ,FJI,Fiji,Republic of Fiji,NA,NA,NA,NA,NA,NA,NA
+AS_SE,Western Pacific Islands,New Caledonia,540,NC,NCL,New Caledonia,Territory of New Caledonia and Dependencies,NA,NA,NA,NA,NA,NA,NA
+AS_SE,Western Pacific Islands,Papua New Guinea,598,PG,PNG,Papua New Guinea,Independent State of Papua New Guinea,NA,NA,NA,NA,NA,NA,NA
+AS_SE,Western Pacific Islands,Solomon Islands,90,SB,SLB,Solomon Islands,British Solomon Islands Protectorate,NA,NA,NA,NA,NA,NA,NA
+AS_SE,Western Pacific Islands,Vanuatu,548,VU,VUT,Vanuatu,Republic of Vanuatu,NA,NA,NA,NA,NA,NA,NA
+AS_SE,Western Pacific Islands,Guam,316,GU,GUM,Guam,Territory of Guam,NA,NA,NA,NA,NA,NA,NA
+AS_SE,Western Pacific Islands,Kiribati,296,KI,KIR,Kiribati,Republic of Kiribati,NA,NA,NA,NA,NA,NA,NA
+AS_SE,Western Pacific Islands,Marshall Islands,584,MH,MHL,Marshall Islands,Republic of the Marshall Islands,NA,NA,NA,NA,NA,NA,NA
+AS_SE,Western Pacific Islands,Micronesia (Federated States of),583,FM,FSM,Micronesia Federated States of,"Micronesia, Federated States of",Micronesia,NA,NA,NA,NA,NA,NA
+AS_SE,Western Pacific Islands,Nauru,520,NR,NRU,Nauru,Republic of Nauru,Naoero,NA,NA,NA,NA,NA,NA
+AS_SE,Western Pacific Islands,Northern Mariana Islands,580,MP,MNP,Northern Mariana Islands,Commonwealth of the Northern Mariana Islands,NA,NA,NA,NA,NA,NA,NA
+AS_SE,Western Pacific Islands,Palau,585,PW,PLW,Palau,Republic of Palau,Belau,NA,NA,NA,NA,NA,NA
+AS_SE,Western Pacific Islands,United States Minor Outlying Islands,581,UM,UMI,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AS_SE,Western Pacific Islands,American Samoa,16,AS,ASM,American Samoa,Territory of American Samoa,Amerika Samoa,NA,NA,NA,NA,NA,NA
+AS_SE,Western Pacific Islands,Cook Islands,184,CK,COK,Cook Islands,NA,NA,NA,NA,NA,NA,NA,NA
+AS_SE,Western Pacific Islands,French Polynesia,258,PF,PYF,French Polynesia,Overseas Lands of French Polynesia,Territory of French Polynesia,NA,NA,NA,NA,NA,NA
+AS_SE,Western Pacific Islands,Niue,570,NU,NIU,Niue,NA,NA,NA,NA,NA,NA,NA,NA
+AS_SE,Western Pacific Islands,Pitcairn,612,PN,PCN,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AS_SE,Western Pacific Islands,Samoa,882,WS,WSM,Samoa,Independent State of Samoa,Independent State of Western Samoa,West Samoa,Western Samoa,NA,NA,NA,NA
+AS_SE,Western Pacific Islands,Tokelau,772,TK,TKL,Tokelau,Tokelau Islands,NA,NA,NA,NA,NA,NA,NA
+AS_SE,Western Pacific Islands,Tonga,776,TO,TON,Tonga,Kingdom of Tonga,Friendly Islands,NA,NA,NA,NA,NA,NA
+AS_SE,Western Pacific Islands,Tuvalu,798,TV,TUV,Tuvalu,Tuvalu Islands,NA,NA,NA,NA,NA,NA,NA
+AS_SE,Western Pacific Islands,Wallis and Futuna Islands,876,WF,WLF,Wallis and Futuna Islands,Territory of the Wallis and Futuna Islands,NA,NA,NA,NA,NA,NA,NA
