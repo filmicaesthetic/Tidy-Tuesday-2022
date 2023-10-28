@@ -127,7 +127,7 @@ top_x_rel |>
   scale_x_continuous(breaks = c(seq(4,44, by = 4))) +
   scale_y_continuous(labels = scales::comma) +
   labs(x = "Years since first election", y = "Total cumulative votes", title = "**US House of Representatives:** Vote GOATs",
-       subtitle = paste("Congress's top 10 all-time vote-getters includes <span style='color:#2c5ba8'>**8 Democrats**</span> and <span style='color:#ba272c'>**2 Republicans**</span>: former Speaker of the House,<br><i>**Nancy Pelosi**</i>, leads the pack with a total of",scales::comma(max(top_x_plot$end_total)),"votes from 18 elections (and 18 wins) throughout her 36 year career.<br><i>**F James Sensenbrenner JR**</i> is the Republican with the highest number of votes received, during his time in Congress from 1980 - 2021", sep = " "),
+       subtitle = paste("Congress's top 10 vote-getters since 1976 includes <span style='color:#2c5ba8'>**8 Democrats**</span> and <span style='color:#ba272c'>**2 Republicans**</span>: former Speaker of the House,<br><i>**Nancy Pelosi**</i>, leads the pack with a total of",scales::comma(max(top_x_plot$end_total)),"votes from 18 elections (and 18 wins) throughout her 36 year career.<br><i>**F James Sensenbrenner JR**</i> is the Republican with the highest number of votes received, during his time in Congress from 1980 - 2021", sep = " "),
        caption = "<i>**Data**: MIT Election Data and Science Lab (MEDSL) | **Visualisation**: @filmicaesthetic</i>") + 
   theme_minimal() +
   theme(legend.position = "none",
